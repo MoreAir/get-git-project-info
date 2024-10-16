@@ -1,0 +1,9 @@
+
+#输出excel路径
+outputFilePath: D:\document\工作文档
+
+#登录后查看按F12查看网络请求头cookie
+cookie: 
+
+#gitlab主页 如：https://gitlab.xxx.com/
+baseUrl: 
